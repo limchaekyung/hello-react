@@ -3,9 +3,9 @@
 
 component - props, 분리<br>
 state - key<br>
+CRUD<br>
 
 props : READ-ONLY, component 외부<br>
 state : setState로 수정, component 내부<br>
 
-CRUD
 update: create+read
